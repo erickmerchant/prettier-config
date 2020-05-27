@@ -13,6 +13,12 @@
     "url": "https://github.com/erickmerchant/prettier-config/issues"
   },
   "homepage": "https://github.com/erickmerchant/prettier-config#readme",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
   "peerDependencies": {
     "prettier": "^2.0.5"
   }
