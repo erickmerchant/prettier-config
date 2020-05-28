@@ -1,13 +1,13 @@
 module.exports = {
-  arrowParens: "always",
+  arrowParens: 'always',
   bracketSpacing: false,
-  htmlWhitespaceSensitivity: "ignore",
+  htmlWhitespaceSensitivity: 'ignore',
   printWidth: 80,
-  proseWrap: "preserve",
-  quoteProps: "consistent",
+  proseWrap: 'preserve',
+  quoteProps: 'consistent',
   semi: false,
   singleQuote: true,
   tabWidth: 2,
-  trailingComma: "none",
-  useTabs: false,
-};
+  trailingComma: 'none',
+  useTabs: false
+}
