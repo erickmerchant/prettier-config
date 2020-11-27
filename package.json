@@ -13,9 +13,6 @@
     "url": "https://github.com/erickmerchant/prettier-config/issues"
   },
   "homepage": "https://github.com/erickmerchant/prettier-config#readme",
-  "devDependencies": {
-    "prettier": "^2.2.0"
-  },
   "peerDependencies": {
     "prettier": "^2.1.2"
   },
