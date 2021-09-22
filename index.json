@@ -5,9 +5,9 @@
   "printWidth": 80,
   "proseWrap": "preserve",
   "quoteProps": "consistent",
-  "semi": false,
+  "semi": true,
   "singleQuote": true,
   "tabWidth": 2,
-  "trailingComma": "none",
+  "trailingComma": "es5",
   "useTabs": false
 }
